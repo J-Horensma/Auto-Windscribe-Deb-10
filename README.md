@@ -3,4 +3,4 @@ An automated promotional script for windscribe made for Debian 10 (Compatible wi
 ![](https://github.com/J-Horensma/Auto-Windscribe-Deb-10/blob/master/Images/Windscape_Main.png)
 #
 ## USAGE:
-**bash Install.sh**
+`bash Install.sh`
