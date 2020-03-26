@@ -6,4 +6,5 @@
 ![](https://github.com/J-Horensma/Auto-Windscribe-Deb-10/blob/master/Images/Windscape_Main.png)
 #
 ## USAGE:
+`git clone https://github.com/J-Horensma/Auto-Windscribe-Deb-10.git`
 `bash Windscribe.sh`
