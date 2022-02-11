@@ -187,7 +187,3 @@ bash Windscribe.sh
 ;;
 esac
 done
-
-
-
-
