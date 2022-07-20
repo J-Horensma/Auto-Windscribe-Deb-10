@@ -36,8 +36,7 @@ echo
 echo "It comes with 10 free GB of data usage,"
 echo "but I will be compensated enough for a couple coffees" 
 echo "should you decide to sign up for a 1 month pro account," 
-echo "with access to more VPN connections around the world!"
-echo "Why not do me a favor and sign up for a 1 month pro account ;)."
+echo "to gain access to more VPN connections around the world!"
 echo "Sign up through the link above. ^^^"
 echo
 echo
