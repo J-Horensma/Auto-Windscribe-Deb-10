@@ -1,5 +1,5 @@
 #!/bin/bash
-#Debian 10 (Kali Compatible) windscape setup, install, and usage bash script
+#Debian 10 (Kali Compatible) windscribe setup, install, and usage bash script
 #By: Joel Horensma
 clear
 printf "\e[1;34m	        _    _ _           _               _ _            \e[0m\n"
